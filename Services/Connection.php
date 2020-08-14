@@ -14,10 +14,10 @@ class Connection{
      
     private static $dbtype   = "mysql";
     private static $host     = "localhost";
-    private static $port     = "3306";
-    private static $user     = "user";
-    private static $password = "Password01!";
-    private static $db       = "global";
+    private static $port     = "XXXX";
+    private static $user     = "XXXX";
+    private static $password = "XXXX";
+    private static $db       = "XXXX";
      
     private function getDBType()  {return self::$dbtype;}
     private function getHost()    {return self::$host;}
